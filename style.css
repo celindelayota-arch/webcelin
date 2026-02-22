@@ -5,6 +5,7 @@ body{
   font-family:GEORGIA;
   margin:0 auto;
 }
+
 .header{
   width:90%;
   margin:auto;
@@ -13,12 +14,15 @@ body{
   background: #173F5F;
   color:#fff;
 }
+
 .jarak{
   padding:0 2pc;
 }
+
 .menu ul {
   list-style:none;
 }
+
 .menu ul li a {
   float:left;
   width:70px;
@@ -27,6 +31,7 @@ body{
   color:#FFF;
   text-decoration:none;
 }
+
 .menu{
   background-color:#417aa8;
   height:50px;
@@ -35,6 +40,7 @@ body{
   margin:0 auto;
   padding:0 auto;
 }
+
 
 
 
